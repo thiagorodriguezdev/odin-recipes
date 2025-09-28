@@ -22,17 +22,6 @@ Você pode acessar o projeto em funcionamento através do link de deploy:
 
 * **HTML5:** Usado para toda a estrutura e conteúdo do site.
 
-## 📁 Estrutura do Repositório
-
-O projeto segue uma estrutura de diretórios muito simples:
-
-odin-recipes/
-├── index.html          # Página principal com a lista de receitas
-└── recipes/
-├── lasanha.html    # Página da receita de Lasanha
-├── camarao.html    # Página da receita de Camarão
-└── frango.html     # Página da receita de Frango
-
 ## 🚀 Como Visualizar Localmente
 
 Se você deseja rodar este projeto em sua máquina:
