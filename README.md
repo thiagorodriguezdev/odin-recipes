@@ -39,7 +39,7 @@ Se você deseja rodar este projeto em sua máquina:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://www.youtube.com/watch?v=X49Wz3icO3E](https://www.youtube.com/watch?v=X49Wz3icO3E)
+    git clone [git@github.com:thiagorodriguezdev/odin-recipes.git]
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
