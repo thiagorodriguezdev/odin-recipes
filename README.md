@@ -21,7 +21,6 @@ Você pode acessar o projeto em funcionamento através do link de deploy:
 ## 🛠️ Tecnologias Utilizadas
 
 * **HTML5:** Usado para toda a estrutura e conteúdo do site.
-* **CSS:** Pode ser adicionado futuramente para estilização básica e responsividade.
 
 ## 📁 Estrutura do Repositório
 
